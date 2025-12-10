@@ -1,9 +1,10 @@
-# template-react
+# template-next
 
 ## Next.JS(React) 탬플릿
 > 프로젝트명 변경 가능
 
-
+## HOTFIX
+> [2025-12-10] CVE-2025-55182 보안 취약점 대응
 
 
 ## ENV 분기
